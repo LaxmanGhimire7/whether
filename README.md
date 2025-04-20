@@ -27,3 +27,25 @@ A simple and responsive weather forecasting app built with React and Vite. This 
 
 ```bash
 git clone https://github.com/LaxmanGhimire7/whether.git
+
+2. npm install
+3. VITE_APP_ID=your_api_key_here
+4. npm run dev
+
+
+---
+
+### 📜 LICENSE
+
+Save this as `LICENSE` in your root directory:
+
+```text
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+This license allows you to download and share the work as long as you credit the author, but you can’t change it in any way or use it commercially.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+© 2025 Laxman Ghimire
+
+
