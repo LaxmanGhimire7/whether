@@ -13,7 +13,7 @@ A simple and responsive weather forecasting app built with React and Vite. This 
 
 - React
 - Vite
-- CSS
+- TailwindCSS
 - OpenWeatherMap API
 
 ## 📸 Screenshots
